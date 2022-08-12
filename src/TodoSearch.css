@@ -1,0 +1,12 @@
+.TodoSearch{
+    border-color: brown;
+}
+
+label{
+    margin: 5px;
+    font-size: large;
+}
+
+input{
+    margin-left: 10px;
+}
